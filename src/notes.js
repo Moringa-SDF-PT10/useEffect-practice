@@ -20,3 +20,9 @@ useEffect(fn()) -> // Infinite
 useEffect(fn(), []) -> // Runs once - there is no state to sync with
 useEffect(fn(), [name]) -> // Runs once - but sync with the name everytime it changes
 
+
+KISS - keep it simple, stupid
+DRY - Dont repeat yourself
+
+
+`https://jsonplaceholder.typicode.com/users/63567890`
